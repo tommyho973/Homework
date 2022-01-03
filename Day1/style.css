@@ -1,0 +1,23 @@
+.space{
+    padding: 20px;
+    color: white;
+}
+header{
+    font-size: x-large;
+    color: white;
+    padding:20px 0px;
+}
+html{
+    background:rgb(73, 128, 230);
+}
+
+button {
+    background: #da34b0;
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    border: 1px solid #5f9341;
+    font-weight: bold;
+}
+body{
+padding:20px;
+}
